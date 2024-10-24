@@ -2,7 +2,7 @@
 
 My name is Beatriz and I'm currently an undergraduate student in Social Sciences from Brazil. <br>
 I've been learning Rprograming and Rstats since 2022 on my own to improve my analytical skills as a social scientist and as a researcher! <br>
-My areas of interest include methods quantitatives for urban development. I've also experience on projects related to digital methods and media studies. <br>
+My areas of interest include methods quantitatives for public policies. I've also experience on projects related to digital methods and media studies. <br>
 
 #### Projects in 🇧🇷, 🇫🇷, 🇺🇸 and 🇪🇸
 
